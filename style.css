@@ -1,0 +1,18 @@
+body {
+  background-image: url(673916.jpg);
+  background-attachment: fixed;
+  min-height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul {
+  background-color: coral;
+  color: cadetblue;
+}
+
+h1 {
+  color:firebrick;
+  text-align: center;
+}
